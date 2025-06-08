@@ -1,0 +1,10 @@
+# train: /home/tianqi/wslProjects/05_colab_pipline/test_running/data/test/images
+# val: /home/tianqi/wslProjects/05_colab_pipline/test_running/data/val/images
+# test: /home/tianqi/wslProjects/05_colab_pipline/test_running/data/test/images
+
+train: ./train/images
+val: ./test/images
+test: ./test/images
+
+nc: 1
+names: ['0']

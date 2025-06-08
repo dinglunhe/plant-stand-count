@@ -1,0 +1,2 @@
+lr,batch,weight_decay,dropout,freeze_layers,mAP50,is_best
+0.005,8,0.0005,0,0,0.8984862572474602,True
