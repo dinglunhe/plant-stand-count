@@ -1,47 +1,10 @@
-# Python cache files
-__pycache__/
-*.py[cod]
-*.so
-*.ipynb_checkpoints
-
-# Jupyter output
-*.log
-*.out
-
-# Virtual environments
-.venv/
-env/
-venv/
-
-# Checkpoints and models
 *.pt
-*.pth
-*.ckpt
-*.npz
-
-# Data files
+*.ipynb
 *.tif
 *.jpg
-*.jpeg
 *.png
 *.zip
 *.tar.gz
-data/
-results/
-output/
-inference/
 runs/
 model/
-
-
-# System files
-.DS_Store
-Thumbs.db
-
-# VSCode/IDE
-.vscode/
-.idea/
-*.pt
-*.ipynb
-runs/
-model/
+__pycache__/
