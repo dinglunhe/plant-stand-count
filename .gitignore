@@ -3,7 +3,6 @@
 *.pth
 *.h5
 *.tif
-*.ipynb
 *.onnx
 *.ckpt
 *.tar
