@@ -30,6 +30,9 @@ data/
 results/
 output/
 inference/
+runs/
+model/
+
 
 # System files
 .DS_Store
@@ -38,3 +41,7 @@ Thumbs.db
 # VSCode/IDE
 .vscode/
 .idea/
+*.pt
+*.ipynb
+runs/
+model/
