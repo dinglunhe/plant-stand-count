@@ -1,10 +1,16 @@
+# Ignore model weights and large artifacts
 *.pt
-*.ipynb
+*.pth
+*.h5
 *.tif
-*.jpg
-*.png
+*.ipynb
+*.onnx
+*.ckpt
+*.tar
 *.zip
-*.tar.gz
+*.npy
 runs/
-model/
+weights/
+logs/
 __pycache__/
+.DS_Store
